@@ -1,8 +1,6 @@
 # Парсер вакансий HeadHunter hh.ru ( api.hh.ru/vacancies)
 
-![GitHub](https://img.shields.io/github/license/shakhbanov/HeadHunter)
-![GitHub last commit](https://img.shields.io/github/last-commit/shakhbanov/HeadHunter)
-![GitHub issues](https://img.shields.io/github/issues-raw/shakhbanov/HeadHunter)
+
 
 Парсер вакансий HeadHunter - это мощный инструмент для автоматического сбора и анализа данных о вакансиях с популярного ресурса HeadHunter. Независимо от того, нужны ли вам данные для исследований, аналитики или поиска новой работы, этот парсер поможет вам получить доступ к актуальной информации о вакансиях с минимальными усилиями.
 
@@ -14,9 +12,10 @@
 - Загрузка собранных вакансий в PostgreSQL для дальнейшего анализа и хранения.
 - Поддержка расписания для регулярного обновления данных.
 
-## Установка и запуск
+## Установка и запуск (ЧИТАЙТЕ ДОКУМЕНТАЦИЮ)
 
-Чтобы начать использовать парсер, следуйте инструкциям в нашей [документации](https://shakhbanov.org/scraping-vacancies/).
+
+# Чтобы начать использовать парсер, следуйте инструкциям в нашей [документации](https://dzen.ru/a/ae6b7FtfB07NwbT2).
 
 ## Внесение вклада
 
