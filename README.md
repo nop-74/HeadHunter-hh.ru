@@ -1,4 +1,4 @@
-# Парсер вакансий HeadHunter
+# Парсер вакансий HeadHunter hh.ru ( api.hh.ru/vacancies)
 
 ![GitHub](https://img.shields.io/github/license/shakhbanov/HeadHunter)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shakhbanov/HeadHunter)
@@ -20,11 +20,13 @@
 
 ## Внесение вклада
 
-Мы приветствуем ваши вклады! Если вы хотите улучшить этот проект или сообщить об ошибке, пожалуйста, ознакомьтесь с [руководством по внесению вкладов](https://shakhbanov.org/feedback-form/).
+Мы приветствуем ваши вклады! Если вы хотите улучшить этот проект или сообщить об ошибке, пожалуйста, ознакомьтесь с [руководством по внесению вкладов](https://t.me/fradyrad).
 
 ## Лицензия
 
 Этот проект распространяется под лицензией [MIT](LICENSE).
 
-© [shakhbanov.org](https://shakhbanov.org)
+© [fraddyrad Production](https://t.me/fradyrad)
 
+# угостить кофе
+![Alt text](https://github.com/nop-74/ArmDot_Trial_Remover/blob/main/coffe.png)
