@@ -15,6 +15,19 @@
 - Загрузка собранных вакансий в PostgreSQL для дальнейшего анализа и хранения.
 - Поддержка расписания для регулярного обновления данных.
 
+- pip install time
+- pip install random
+- pip install logging
+- pip install requests
+- pip install psycopg2
+- pip install schedule
+- pip install time
+- pip install random
+- pip install logging
+- pip install requests
+- pip install psycopg2
+- pip install schedule
+
 ## Установка и запуск (ЧИТАЙТЕ ДОКУМЕНТАЦИЮ)
 
 
