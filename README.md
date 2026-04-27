@@ -15,7 +15,7 @@
 - Загрузка собранных вакансий в PostgreSQL для дальнейшего анализа и хранения.
 - Поддержка расписания для регулярного обновления данных.
 
-- # requirements
+- # requirements  (требования )
 
 - pip install time
 - pip install random
